@@ -169,7 +169,6 @@
 
 	foreach ($top as $key => $film) {
 		$dollar = $film['im:price']['label'];
-		echo $dollar;
 	}
 	?>
 </body>
